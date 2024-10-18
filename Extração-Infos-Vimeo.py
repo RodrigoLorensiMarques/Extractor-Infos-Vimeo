@@ -1,6 +1,6 @@
 
 from dic import dicionario_vimeo
-import pprint
+import pprint //Biblioteca Pprint apenas para melhor visualização dos dados.
 
 
 Videos=[]
